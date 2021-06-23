@@ -1,0 +1,6 @@
+framework module Pods_RuchiTest_RuchiTestUITests {
+  umbrella header "Pods-RuchiTest-RuchiTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
